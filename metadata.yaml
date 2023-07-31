@@ -1,5 +1,8 @@
 _repo: La-bancale_71123
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71123-h/images/cover.jpg
 creator:
   author:
     agent_name: Bachelin, Henri
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Henri_Bachelin
     - https://fr.wikipedia.org/wiki/Henri_Bachelin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71123#La-bancale
 gutenberg_issued: '2023-07-05'
 identifiers:
   gutenberg: '71123'
